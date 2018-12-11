@@ -1,2 +1,2 @@
 # hello-world
-first git sample repo
+first git sample repo by Vijay
